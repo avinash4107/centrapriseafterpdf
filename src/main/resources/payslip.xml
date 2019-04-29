@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<salary-info>
+    <employee-id>1</employee-id>
+    <employee-name>Avinash Narisetty</employee-name>
+    <employee-joining-date>12-12-2019</employee-joining-date>
+    <location>Hyderabad</location>
+    <designation>software engineer</designation>
+    <pf-number>0</pf-number>
+    <account-number>1111</account-number>
+    <bank-name>sbi</bank-name>
+    <pan-number>BCJPN9780Q</pan-number>
+    <gender>M</gender>
+    <uan-number>111111</uan-number>
+    <number-of-days-worked>30</number-of-days-worked>
+    <loss-of-pay-days>0</loss-of-pay-days>
+    <basic>1111110.0</basic>
+    <special-allowance>111.0</special-allowance>
+    <sign-onbonus-rate>0.0</sign-onbonus-rate>
+    <provident-fund>11111.083</provident-fund>
+    <profession-tax>100.0</profession-tax>
+    <basic-arrear>0.0</basic-arrear>
+    <basic-gross>1111110.0</basic-gross>
+    <special-allowance-arrear>0.0</special-allowance-arrear>
+    <special-allowance-gross>111.0</special-allowance-gross>
+    <sign-onBonus-currentmonth>0.0</sign-onBonus-currentmonth>
+    <sign-onbonus-arrear>0.0</sign-onbonus-arrear>
+    <sign-onbonus-gross>0.0</sign-onbonus-gross>
+    <gross-earning-month>1111221.0</gross-earning-month>
+    <gross-earning-arrear>0.0</gross-earning-arrear>
+    <gross-earning-total>1111221.0</gross-earning-total>
+    <total-deductions>133433.0</total-deductions>
+    <net-pay>1244454.0</net-pay>
+</salary-info>
